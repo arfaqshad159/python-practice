@@ -1,8 +1,8 @@
-print("Welcome to the calculator!")
+print("I love pizza")
+print("I love ice cream")
 
-print("Hi,Arfaqshad")
+def calculate (num1, num2):
+    print("The Sum is: ", num1 + num2)
 
-print(int(input("Enter a number: ")))
-
-print("minecraft is the best game of all time")
-
+calculate(78 , 98)
+calculate(98 , 90)    
